@@ -1,7 +1,7 @@
-#BIT502 Assessment 3 - GUI Program with Database Connection
+# BIT502 Assessment 3 - GUI Program with Database Connection
 
 This project was developed as part of the BIT502 course at Open Polytechnic New Zealand.
-##Overview
+## Overview
 
 This is a Python console application demonstrating fundamental programming concepts including:
 
@@ -13,12 +13,12 @@ This is a Python console application demonstrating fundamental programming conce
  -   Tkinter
  -   Database handling
 
-##Technologies
+## Technologies
 
  -   Python 3
  -   Visual Studio Code
  -   SQLite3
 
-##Author
+## Author
 
 Jorj Baigent
